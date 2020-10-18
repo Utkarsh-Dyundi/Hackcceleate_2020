@@ -12,7 +12,7 @@ function Signupstudent () {
         <div className='card text-left'>
            
             <div className='card-body'>
-            <span class="logo"><h3>Logo</h3></span>
+            <span class="logo"><h3>Pedagogy</h3></span>
  <br />
                 <form  action="#" method="POST">
                     <div class="form-group row">

@@ -17,7 +17,7 @@ students so that they can put there all efforts in teaching.</p>
 <br />
 <a class="soci" href="/signinTeacher"><button type="button" class="soc btn btn-success btn-lg button">Login</button></a>
 <br /><br />
-<p>Don't have an account</p><a href="/signup">signup</a>
+<p>Don't have an account</p><a href="/signup">Signup</a>
 </div>
 
 <div class="col-lg-4 ">
@@ -28,7 +28,7 @@ from many others for your all your favourite subjects.</p>
 <br />
 <a class="soci" href="/signinStudent"><button type="button" class="soc btn btn-dark btn-lg button">Login</button></a>
 <br /><br />
-<p>Don't have an account</p><a href="/signup">signup</a>
+<p>Don't have an account</p><a href="/signup">Signup</a>
 </div>
 
 <div class="col-lg-4">
@@ -39,7 +39,7 @@ yourself updated with your child's assingment and tests.</p>
 <br />
 <a class="soci" href="/signinParent"><button type="button" class="soc btn btn-primary btn-lg button">Login</button></a>
 <br /><br />
-<p>Don't have an account</p><a href="/signup">signup</a>
+<p>Don't have an account</p><a href="/signup">Signup</a>
 </div>
 
 </div>

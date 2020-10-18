@@ -12,6 +12,8 @@ import Teacherpage from "./pages/profileTeacher";
 import Footer from "./footer";
 import Discuss from "./pages/dicuss";
 import Thread from "./pages/thread";
+import Contact from "./pages/contact";
+import Signupparent from "./pages/signupParents";
 import {BrowserRouter as Router, Switch, Route} from "react-router-dom";
 
 function App(){
@@ -30,6 +32,8 @@ function App(){
           <Route path="/profileTeacher" component={Teacherpage} />
           <Route path="/discuss" component={Discuss} />
           <Route path="/thread" component={Thread} />
+          <Route path="/contact" component={Contact} />
+          <Route path="/signupParent" component={Signupparent} />
         </Switch>
         <br /><br />
         <Footer />

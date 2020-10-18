@@ -11,9 +11,9 @@ function SigninTeacher(){
     <br /><br />
     <div class="card">
  <div class="card-body">
-<span class="logo"><h3>Logo</h3></span>
+<span class="logo"><h3>Pedagogy</h3></span>
  <br />
- <form action="/signinStudent" method="post">
+ <form action="/signinTeacher" method="post">
   <div class="form-group">
     <label  for="exampleInputEmail1">Email address</label>
     <input name="email" type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" />
@@ -27,7 +27,7 @@ function SigninTeacher(){
     <input type="checkbox" class="form-check-input" id="exampleCheck1" />
     <label class="form-check-label" for="exampleCheck1">Remember me</label>
   </div>
-  <button type="submit" class="btn btn-primary">Login</button>
+  <a href="/profileTeacher"><button type="submit" class="btn btn-primary">Login</button></a>
 </form>
   </div>
 </div>

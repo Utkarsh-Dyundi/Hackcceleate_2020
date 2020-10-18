@@ -17,7 +17,7 @@ students so that they can put there all efforts in teaching.</p>
 <br />
 <a class="soci" href="/signupTeacher"><button type="button" class="soc btn btn-success btn-lg button">Signup</button></a>
 <br /><br />
-<p>Already have an account</p><a href="/signin">signin</a>
+<p>Already have an account</p><a href="/signin">Signin</a>
 </div>
 
 <div class="col-lg-4 ">
@@ -28,7 +28,7 @@ from many others for your all your favourite subjects.</p>
 <br />
 <a class="soci" href="/signupStudent"><button type="button" class="soc btn btn-dark btn-lg button">Signup</button></a>
 <br /><br />
-<p>Already have an account</p><a href="/signin">signin</a>
+<p>Already have an account</p><a href="/signin">Signin</a>
 </div>
 
 <div class="col-lg-4">
@@ -37,9 +37,9 @@ from many others for your all your favourite subjects.</p>
 <p class="signinop">Join us as parent and track your child's progress and keep
 yourself updated with your child's assingment and tests.</p>
 <br />
-<a class="soci" href="/signinParent"><button type="button" class="soc btn btn-primary btn-lg button">Signup</button></a>
+<a class="soci" href="/signupParent"><button type="button" class="soc btn btn-primary btn-lg button">Signup</button></a>
 <br /><br />
-<p>Already have an account</p><a href="/signin">signin</a>
+<p>Already have an account</p><a href="/signin">Signin</a>
 </div>
 
 </div>

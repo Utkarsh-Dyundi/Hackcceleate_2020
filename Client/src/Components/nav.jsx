@@ -6,7 +6,7 @@ function Nav(){
     <div class="top">
   <nav class="navbar fixed navbar-dark  navbar-expand-lg ml-auto">
     <a class="navbar-brand" href="/">
-    <span class="title">Logo</span>
+    <span class="title">Pedagogy</span>
     </a>
     <button class="navbar-toggler hambug" type="button" data-toggle="collapse" data-target="#abc" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
   <span class="navbar-toggler-icon"></span>
@@ -23,7 +23,7 @@ function Nav(){
       <a class="nav-link" href="/discuss">Discussion</a>
     </li>
     <li class="nav-item">
-      <a class="nav-link " href="feedback.html" tabindex="-1" aria-disabled="true">Contact</a>
+      <a class="nav-link " href="/contact" tabindex="-1" aria-disabled="true">Contact</a>
     </li>
   </ul>
 </div>

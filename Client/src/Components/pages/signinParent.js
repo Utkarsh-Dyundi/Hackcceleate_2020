@@ -11,7 +11,7 @@ function SigninParent(){
     <br /><br />
     <div class="card">
  <div class="card-body">
-<span class="logo"><h3>Logo</h3></span>
+<span class="logo"><h3>Pedagogy</h3></span>
  <br />
  <form action="/signinStudent" method="post">
   <div class="form-group">

@@ -10,7 +10,7 @@ function Footer() {
             <div className='container text-white pt-4 mb-4'>
                 <div className='row mb-4'>
                     <div className='col-sm-12 col-lg-2'>
-                        <h2>Brand Logo</h2>
+                        <h2>Pedagogy</h2>
                     </div>
                     <div className='col-sm-12 col-lg-10 '>
                         <p>Coding Website is founded in 2020 with a mission to create skilled Software Engineers for our country and the world. We are here to bridge the gap between the quality of skills demanded by industry and the quality of skills imparted by conventional institutes. we strive to increase student interest by providing hands on practical training on every concept taught in the classroom</p>

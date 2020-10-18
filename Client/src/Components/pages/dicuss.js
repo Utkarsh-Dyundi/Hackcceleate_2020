@@ -18,11 +18,11 @@ function Discuss () {
                         <h3>Subjects</h3>
                     </thead>
                     <tbody>
-                        <tr><Link to='#'><h4> Computer Related </h4></Link></tr>
-                        <tr><Link to='#'><h4> Maths </h4></Link></tr>
-                        <tr><Link to='#'><h4> Chemistry </h4></Link></tr>
-                        <tr><Link to='#'><h4> Physics </h4></Link></tr>
-                        <tr><Link to='#'><h4> Biology </h4></Link></tr>
+                        <tr><Link to='#'><h5> Computer Related </h5></Link></tr>
+                        <tr><Link to='#'><h5> Maths </h5></Link></tr>
+                        <tr><Link to='#'><h5> Chemistry </h5></Link></tr>
+                        <tr><Link to='#'><h5> Physics </h5></Link></tr>
+                        <tr><Link to='#'><h5> Biology </h5></Link></tr>
                     </tbody>
                     </div>    
                 </table>
@@ -64,7 +64,7 @@ function Discuss () {
         <div className='container-fluid'>
             <div className=' d-flex justify-content-center text-dark'>
             <br /><br />
-                <h1><b><em><u> Discussion Forum </u></em></b></h1>
+                <h1><b> Discussion Forum </b></h1>
             </div>
             <br /><br />
             <div className='row'>
