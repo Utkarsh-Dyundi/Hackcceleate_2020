@@ -9,10 +9,12 @@ Develop pseudo distance learning applications or online educational tools for re
 #Created Web App using MERN stack from scratch
 
 
-## Student, Teacher and Parent can signup
+## Students, Teachers and Parents can signup
 
 
 ###Teachers can provide with study materials like notes, video lectures, etc and can assign assingments.
 
 
 ####Students can discuss with there batchmates and prepare together before exams.
+
+#####Parents can keep track on there child's progress
