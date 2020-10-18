@@ -17,4 +17,4 @@ Develop pseudo distance learning applications or online educational tools for re
 
 ####Students can discuss with there batchmates and prepare together before exams.
 
-#####Parents can keep track on there child's progress
+#####Parents can keep track on thier child's progress
