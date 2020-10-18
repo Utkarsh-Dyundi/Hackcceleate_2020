@@ -42,7 +42,7 @@ function Contact(){
 <h1 class="contact">Contact Us</h1>
 <br />
 <p class="co">Mobile no: 9999999999</p>
-<p class="co">Email: edufirst@gamil.com</p>
+<p class="co">Email: pedagogyedu@gamil.com</p>
 </div>
 </div>
 </div>
