@@ -14,6 +14,8 @@ Develop pseudo distance learning applications or online educational tools for re
 
 ###Teachers can provide with study materials like notes, video lectures, etc and can assign assingments.
 
+####Students can access the study material and submit assingments
+
 ####Students can discuss with there batchmates and prepare together before exams.
 
 
