@@ -7,6 +7,12 @@ As schools around the world respond to the “new normal”, the need for remote
 Develop pseudo distance learning applications or online educational tools for remote learning that allow users to interact and a “classroom-like” environment.
 
 #Created Web App using MERN stack from scratch
+
+
 ## Student, Teacher and Parent can signup
+
+
 ###Teachers can provide with study materials like notes, video lectures, etc and can assign assingments.
+
+
 ####Students can discuss with there batchmates and prepare together before exams.
